@@ -21,6 +21,7 @@
   "homepage": "https://github.com/klynn726/foodfestival#readme",
   "devDependencies": {
     "webpack": "^5.37.0",
+    "webpack-bundle-analyzer": "^4.4.1",
     "webpack-cli": "^4.7.0"
   },
   "dependencies": {
